@@ -1,4 +1,4 @@
-# cnn
+# Convolutional Neural Network
 A sample CNN using tensorflow and keras 
 
 
